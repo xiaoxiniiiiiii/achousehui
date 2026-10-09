@@ -1,0 +1,33 @@
+{
+  "name": "achousehui",
+  "version": "1.0.0",
+  "description": "家居百货",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiniiiiiii/achousehui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/xiaoxiniiiiiii/achousehui/issues"
+  },
+  "homepage": "https://github.com/xiaoxiniiiiiii/achousehui#readme",
+  "dependencies": {
+    "lucide-react": "^1.54.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}
